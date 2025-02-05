@@ -18,7 +18,7 @@ public class Student
     }
 }
 
-// Parameterised
+// Parameterized
 using System;
 public class Student
 {
